@@ -61,4 +61,4 @@ elif Dec1=="Download from Youtube":
     media.play()
 else:
     pyautogui.alert("Invalid Command...:p,Ciao!")
-pyautogui.alert("Thank you for downloading ANUBIS, as we are a growing Non-profit free softwar.py
+pyautogui.alert("Thank you for downloading ANUBIS, as we are a growing Non-profit free software please do consider donating to us for more contact us at quantechlxxi.corp@gmail.com.")
